@@ -1,4 +1,4 @@
-baseURL = 'https://promocje.4us2.pl'
+#baseURL = 'https://example.org/'
 languageCode = 'pl-pl'
 title = 'Promocje dla Poszukiwaczy'
 theme = 'ananke' 
